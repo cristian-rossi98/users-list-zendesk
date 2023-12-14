@@ -1,11 +1,12 @@
 {
   "name": "Listagem de Usuários (App de Exemplo)",
   "author": {
-    "name": "Via Consulting",
-    "email": "suporte@viaconsulting.com.br"
+    "name": "Cristian Rossi",
+    "email": "cristian.rossicosta@gmail.com",
+    "url": "https://cristian-rossi98.github.io/"
   },
   "defaultLocale": "en",
-  "private": true,
+  "private": false,
   "location": {
     "support": {
       "ticket_sidebar": {
