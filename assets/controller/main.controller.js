@@ -1,7 +1,6 @@
 angularjs.controller("angularjsController", function ($scope, zendeskService) {
   zendeskService.listUsers().then(function (users) {
     $scope.arrayUsers = users.users;
-    console.log(users.users);
   });
   // zendeskService.listTickets().then(function (tickets) {
   //   console.log("TICKETS: ", tickets.tickets);
