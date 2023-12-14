@@ -1,0 +1,19 @@
+{
+  "name": "Listagem de Usuários (App de Exemplo)",
+  "author": {
+    "name": "Via Consulting",
+    "email": "suporte@viaconsulting.com.br"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "assets/iframe.html",
+        "flexible": true
+      }
+    }
+  },
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}

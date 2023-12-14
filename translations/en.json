@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Users List (Example App)",
+    "short_description": "List all users.",
+    "long_description": "List all users. Example app for dev training.",
+    "installation_instructions": "Simply click install."
+  }
+}
